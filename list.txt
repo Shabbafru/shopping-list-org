@@ -3,4 +3,5 @@ sprite
 birnen
 brot
 kaffee
+cola
 
