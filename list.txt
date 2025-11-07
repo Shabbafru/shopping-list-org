@@ -2,4 +2,5 @@ sprite
 äpfel
 birnen
 brot
+kaffee
 
